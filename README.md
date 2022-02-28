@@ -1,9 +1,9 @@
-#
-<h1><Hello message='Welcome to my profile!' /></h1>
 
-<ul>
-  <li>👽 Learning Javascript and ReactJS!</li>
-</ul>
+<h1>Welcome to my profile!</h1>
+<p>Eu sou Gabriel e estudo Desenvolvimento Web.</p>
+<p>Atualmente estou aprendendo ReactJS e, sempre praticando Javascript.</p>
+
+#
 
 <div align="center">
   <a href="https://github.com/gabriellima2">
