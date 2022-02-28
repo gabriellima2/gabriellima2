@@ -1,6 +1,8 @@
-### <Hello message='Welcome to my profile!' />
+<h1><Hello message='Welcome to my profile!' /></h1>
 
-- 👽 Learning Javascript and ReactJS!
+<ul>
+  <li>👽 Learning Javascript and ReactJS!</li>
+</ul>
 
 <div align="center">
   <a href="https://github.com/gabriellima2">
