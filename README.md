@@ -1,6 +1,6 @@
-### Hello World! 🌎
+### <Hello message='Welcome to my profile!' />
 
-- 👽 Estudando JS
+- 👽 Learning Javascript and ReactJS!
 
 <div align="center">
   <a href="https://github.com/gabriellima2">
