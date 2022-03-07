@@ -7,7 +7,7 @@
 * 💙 Descobri a programação em Fev/2021, e venho estudando autodidata até hoje.
 * 🎮 Sempre gostei de tecnologia.
 * 📚 Atualmente estou focado em aprender ReactJS e mais de Javascript.
-* 🏀 Gosto tambem de futebol e basquete, sempre que possivel estou assitindo algum jogo.
+* 🏀 Gosto tambem de futebol e basquete, sempre que possível estou assistindo algum jogo.
 
 #
 
