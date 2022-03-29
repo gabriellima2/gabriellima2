@@ -1,13 +1,13 @@
 
 <h1>Welcome to my profile! 🚀 👋</h1>
-<p>Olá eu sou Gabriel, um iniciante no mundo da programação.</p>
+<p>Olá eu sou Gabriel, um iniciante no mundo da programação e Desenvolvimento Web</p>
 
 <h2>Sobre mim:</h2>
 
 * 💙 Descobri a programação em Fev/2021, e venho estudando autodidata até hoje.
 * 🎮 Sempre gostei de tecnologia.
 * 📚 Atualmente estou focado em aprender ReactJS e mais de Javascript.
-* 🏀 Gosto tambem de futebol e basquete, sempre que possível estou assistindo algum jogo.
+* 🏀 Gosto também de futebol e basquete, sempre que possível estou assistindo algum jogo.
 
 #
 
