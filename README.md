@@ -11,8 +11,23 @@
 
 #
 
+<div align="center" >
+  
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5 Icon" width="60px" />
+  
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3 Icon" width="60px" />
+  
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript Icon" width="60px" />
+  
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS Icon" width="60px" />
+
+</div>
+
+#
+
 <div align="center" display="inline">
   <a href="https://github.com/gabriellima2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellima2&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" width="430px"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima2&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" width="410px"/>
 </div>
+
