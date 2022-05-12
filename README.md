@@ -19,16 +19,16 @@
 
 #
   
-<div align="center" >
+<div style="display: inline_block;" align="center"></br>
   
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5 Icon" width="40px" />
-  
+
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3 Icon" width="40px" />
-  
+
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript Icon" width="40px" />
-  
+
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript Icon" width="40px" />
- 
+
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS Icon" width="40px" />
 
 </div>
