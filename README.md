@@ -16,8 +16,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellima2&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" width="430px"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima2&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" width="410px"/>
 </div>
-
-#
   
 <div style="display: inline_block;" align="center"></br>
   
@@ -32,3 +30,13 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS Icon" width="40px" />
 
 </div>
+
+#
+
+<p align="center">
+  <a href="mailto:gabriel.rslima10@gmail.com" alt="Link para Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/gabriel-lima-860612236" alt="Link para Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
