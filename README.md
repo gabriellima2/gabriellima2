@@ -1,11 +1,11 @@
 
 <h1>Welcome to my profile! 🚀 👋</h1>
-<p>Olá eu sou Gabriel, um iniciante no mundo da programação e Desenvolvimento Web</p>
+<p>Olá eu sou Gabriel, Desenvolvedor Front-End focado no mundo React.</p>
 
 <h2>Sobre mim:</h2>
 
 * 💙 Descobri a programação em Fev/2021, e venho estudando autodidata até hoje.
-* 🎮 Gosto muito de tecnologia.
+* 🎮 Gosto muito de tecnologia e design.
 * 📚 Atualmente estou focado em aprender mais do mundo React e Testes Unitários.
 * 🏀 Gosto também de futebol e basquete, sempre que possível estou assistindo algum jogo.
 
@@ -20,21 +20,21 @@
 <div style="display: inline_block;" align="center"></br>
   
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5 Icon" width="40px" />
-
+  &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3 Icon" width="40px" />
-
+  &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript Icon" width="40px" />
-
+  &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript Icon" width="40px" />
-
+  &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS Icon" width="40px" />
-
+  &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40px" />
-  
-   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40px" />
-
+  &nbsp;
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40px" />
+  &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40px" />
-
+  &nbsp;
 </div>
 
 #
@@ -42,7 +42,7 @@
 <p align="center">
   <a href="mailto:gabriel.rslima10@gmail.com" alt="Link para Gmail" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+  &nbsp;
   <a href="https://www.linkedin.com/in/gabriel-lima-860612236" alt="Link para Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
