@@ -10,15 +10,9 @@
 * 🏀 Gosto também de futebol e basquete, sempre que possível estou assistindo algum jogo.
 
 #
-
-<div align="center" display="inline">
-  <a href="https://github.com/gabriellima2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellima2&show_icons=true&theme=blue-green&include_all_commits=true&hide_border=true" width="430px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima2&layout=compact&langs_count=7&theme=blue-green&hide_border=true" width="410px"/>
-</div>
   
 <br />
-  
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,styledcomponents,tailwind,jest,figma" />
