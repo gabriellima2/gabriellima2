@@ -33,4 +33,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/gabriel-lima-860612236" alt="Link para Linkedin" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://gabriellima-frontend.vercel.app/" alt="Link para meu site(portfólio)" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/Meu%20Website-EDD11D?style=for-the-badge" /></a>
 </p>
