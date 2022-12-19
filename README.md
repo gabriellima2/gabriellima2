@@ -1,20 +1,26 @@
+<h1 align="center" display="inline">👩‍💻 🚀 Gabriel Lima - Dev Front-end</h1>
 
-<h1>Welcome to my profile! 🚀 👋</h1>
-<p>Olá eu sou Gabriel, Desenvolvedor Front-End focado no mundo React.</p>
+```js
+import { Developer } from "@utils/developer";
 
-<h2>Sobre mim:</h2>
+class About extends Developer {
+  public nome  = "Gabriel Lima";
+  public area  = "Desenvolvedor Front-end";
+  public local = "Guarulhos, SP";
+}
+```
 
-* 💙 Descobri a programação em Fev/2021, e venho estudando autodidata até hoje.
+* 💙 Descobri a programação em Fev/2021, venho estudando autodidata até hoje.
 * 🎮 Gosto muito de tecnologia e design.
-* 📚 Atualmente estou estudando React Native e Testes Unitários.
-* 🏀 Gosto também de futebol e basquete, sempre que possível estou assistindo algum jogo.
+* 📚 Atualmente estou estudando React Native.
+* 🏀 Também gosto de futebol e basquete, sempre que possível estou assistindo algum jogo.
 
 #
 
 <div align="center" display="inline">
   <a href="https://github.com/gabriellima2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellima2&show_icons=true&theme=blue-green&include_all_commits=true&hide_border=true" width="430px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima2&layout=compact&langs_count=7&theme=blue-green&hide_border=true" width="410px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellima2&show_icons=true&theme=prussian&include_all_commits=true&hide_border=true" width="430px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima2&layout=compact&langs_count=7&theme=prussian&hide_border=true" width="410px"/>
 </div>
 
 <br />
