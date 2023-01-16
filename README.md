@@ -1,12 +1,12 @@
 <h1 align="center" display="inline">👩‍💻 🚀 Gabriel Lima - Dev Front-end</h1>
 
 ```js
-import { Developer } from "@utils/developer";
-
-class About extends Developer {
-  public nome  = "Gabriel Lima";
-  public area  = "Desenvolvedor Front-end";
-  public local = "Guarulhos, SP";
+class About {
+  constructor() {
+    this.nome  = "Gabriel Lima";
+    this.area  = "Desenvolvedor Front-end";
+    this.local = "Guarulhos, SP";
+  }
 }
 ```
 
