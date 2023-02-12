@@ -12,7 +12,7 @@ class About {
 
 * 💙 Descobri a programação em Fev/2021, venho estudando autodidata até hoje.
 * 🎮 Gosto muito de tecnologia e design.
-* 📚 Atualmente estou estudando React Native.
+* 📚 Atualmente estou estudando VueJS.
 * 🏀 Também gosto de futebol e basquete, sempre que possível estou assistindo algum jogo.
 
 #
@@ -27,7 +27,7 @@ class About {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,styledcomponents,tailwind,jest,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,redux,jest,styledcomponents,tailwind,figma" />
   </a>
 </p>
 
