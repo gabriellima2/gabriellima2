@@ -1,12 +1,24 @@
 <h1 align="center" display="inline">👩‍💻 🚀 Gabriel Lima - Dev Front-end</h1>
 
-```js
-class About {
-  constructor() {
-    this.nome  = "Gabriel Lima";
-    this.area  = "Desenvolvedor Front-end";
-    this.local = "Guarulhos, SP";
-  }
+```cpp
+#include <iostream>;
+using namespace std;
+
+struct Developer
+{
+	string name;
+	string address;
+	string area;
+};
+
+int main()
+{
+	Developer* dev = new Developer();
+	dev->name = "Gabriel";
+	dev->address = "Guarulhos, SP";
+	dev->area = "Desenvolvedor Front-end";
+	delete dev;
+	return 0;
 }
 ```
 
