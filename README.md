@@ -8,7 +8,7 @@ struct Developer
 {
 	string name;
 	string address;
-	string area;
+	string occupation;
 };
 
 int main()
@@ -16,7 +16,7 @@ int main()
 	Developer* dev = new Developer();
 	dev->name = "Gabriel";
 	dev->address = "Guarulhos, SP";
-	dev->area = "Desenvolvedor Front-end";
+	dev->occupation = "Desenvolvedor Front-end";
 	delete dev;
 	return 0;
 }
