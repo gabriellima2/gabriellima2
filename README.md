@@ -21,13 +21,14 @@ int main()
 	return 0;
 }
 ```
+----
 
 * 💙 Descobri a programação em Fev/2021, venho estudando autodidata até hoje.
 * 🎮 Gosto muito de tecnologia e design.
 * 📚 Atualmente, estou estudando TDD e Clean Architecture.
 * 🏀 Também gosto de futebol e basquete, sempre que possível estou assistindo algum jogo.
 
-#
+----
 
 <div align="center" display="inline">
   <a href="https://github.com/gabriellima2">
@@ -43,7 +44,7 @@ int main()
   </a>
 </p>
 
-#
+----
 
 <div align="center">
   <a href="mailto:gabriel.rslima10@gmail.com" alt="Link para Gmail" rel="noreferrer" target="_blank">
