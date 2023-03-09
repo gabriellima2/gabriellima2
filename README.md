@@ -39,13 +39,13 @@ int main()
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,redux,jest,styledcomponents,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,redux,jest,styledcomponents,tailwind,figma,git" />
   </a>
 </p>
 
 #
 
-<p align="center">
+<div align="center">
   <a href="mailto:gabriel.rslima10@gmail.com" alt="Link para Gmail" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
@@ -54,4 +54,4 @@ int main()
   &nbsp;
   <a href="https://gabriellima-frontend.vercel.app/" alt="Link para meu site(portfólio)" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/Meu%20Website-EDD11D?style=for-the-badge" /></a>
-</p>
+</div>
