@@ -40,7 +40,7 @@ int main()
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,redux,jest,styledcomponents,tailwind,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,jest,styledcomponents,tailwind,figma,git" />
   </a>
 </p>
 
