@@ -25,7 +25,7 @@ int main()
 
 * 💙 Descobri a programação em Fev/2021, venho estudando de forma autodidata até hoje.
 * 🎮 Gosto muito de tecnologia e design.
-* 📚 Atualmente, estou estudando TDD e Clean Architecture.
+* 📚 Atualmente, estou estudando TDD, Clean Architecture e Docker.
 * 🏀 Também gosto de futebol e basquete, sempre que possível estou assistindo algum jogo.
 
 ----
