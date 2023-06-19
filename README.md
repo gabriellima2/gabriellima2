@@ -25,7 +25,7 @@ int main()
 
 * 💙 Descobri a programação em Fev/2021, venho estudando de forma autodidata até hoje.
 * 🎮 Gosto muito de tecnologia e design.
-* 📚 Atualmente, estou estudando TDD, Clean Architecture e Docker.
+* 📚 Atualmente, estou estudando TDD e Docker.
 * 🏀 Também gosto de futebol e basquete, sempre que possível estou assistindo algum jogo.
 
 ----
@@ -40,7 +40,7 @@ int main()
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,jest,styledcomponents,tailwind,figma,git,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,redux,jest,styledcomponents,tailwind,figma,git,docker" />
   </a>
 </p>
 
