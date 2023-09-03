@@ -1,10 +1,10 @@
-<h1 align="center" display="inline">👩‍💻 🚀 Gabriel Lima - Dev Front-end</h1>
+<h1 align="center" display="inline">👩‍💻 🚀 Gabriel Lima - Desenvolvedor Front-end | Mobile</h1>
 
 ```cpp
 #include <iostream>;
 using namespace std;
 
-struct Developer
+struct Person
 {
 	string name;
 	string address;
@@ -13,20 +13,20 @@ struct Developer
 
 int main()
 {
-	Developer* dev = new Developer();
-	dev->name = "Gabriel";
-	dev->address = "Guarulhos, SP";
-	dev->occupation = "Desenvolvedor Front-end";
-	delete dev;
+	Person* person = new Person();
+	person->name = "Gabriel";
+	person->address = "Guarulhos, SP";
+	person->job = "Desenvolvedor Front-end | Mobile";
+	delete person;
 	return 0;
 }
 ```
 ----
 
 * 💙 Descobri a programação em Fev/2021, venho estudando de forma autodidata até hoje.
-* 🎮 Gosto muito de tecnologia e design.
-* 📚 Atualmente, estou estudando TDD e Docker.
-* 🏀 Também gosto de futebol e basquete, sempre que possível estou assistindo algum jogo.
+* 🎮 Amo tecnologia e design.
+* 📚 Atualmente, estou aprimorando minhas habilidades em desenvolvimento mobile com React Native e explorando o universo backend com NodeJS e tecnologias relacionadas.
+* 🏀 Também gosto de futebol e basquete. Sempre que é possível estou assistindo algum jogo.
 
 ----
 
