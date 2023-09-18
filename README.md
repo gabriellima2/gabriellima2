@@ -16,7 +16,7 @@ int main()
 	Person* person = new Person();
 	person->name = "Gabriel";
 	person->address = "Guarulhos, SP";
-	person->job = "Desenvolvedor Front-end | Mobile";
+	person->occupation = "Desenvolvedor Front-end | Mobile";
 	delete person;
 	return 0;
 }
