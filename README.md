@@ -1,5 +1,3 @@
-<h1 align="center" display="inline">👩‍💻 🚀 Gabriel Lima - Desenvolvedor Front-end | Mobile</h1>
-
 ```cpp
 #include <iostream>;
 using namespace std;
@@ -32,8 +30,8 @@ int main()
 
 <div align="center" display="inline">
   <a href="https://github.com/gabriellima2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellima2&show_icons=true&theme=prussian&include_all_commits=true&hide_border=true" width="430px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima2&layout=compact&langs_count=8&theme=prussian&hide_border=true" width="410px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellima2&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" width="430px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima2&layout=compact&langs_count=8&theme=nightowl&hide_border=true" width="410px"/>
 </div>
 
 <br />
