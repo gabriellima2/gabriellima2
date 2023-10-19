@@ -1,56 +1,40 @@
-```cpp
-#include <iostream>;
-using namespace std;
+<img align="left" src="./avatar.png" width="200px" height="200px">
 
-struct Person
-{
-	string name;
-	string address;
-	string occupation;
-};
+### Salve!
 
-int main()
-{
-	Person* person = new Person();
-	person->name = "Gabriel";
-	person->address = "Guarulhos, SP";
-	person->occupation = "Desenvolvedor Front-end | Mobile";
-	delete person;
-	return 0;
-}
-```
-----
+Eu sou **Gabriel**, um desenvolvedor front-end inovador e criativo. Tenho experiência em desenvolver soluções digitais únicas e personalizadas. Através do meu trabalho, busco ajudar os clientes a aumentar sua visibilidade e presença no mundo digital.
 
-* 💙 Descobri a programação em Fev/2021, venho estudando de forma autodidata até hoje.
-* 🎮 Amo tecnologia e design.
-* 📚 Atualmente, estou aprimorando minhas habilidades em desenvolvimento mobile com React Native e explorando o universo backend com NodeJS e tecnologias relacionadas.
-* 🏀 Também gosto de futebol e basquete. Sempre que é possível estou assistindo algum jogo.
+[`🏠 gabrielrslima.vercel`](https://gabrielrslima.vercel.app/)
+[`📬 gabriel.rslima10@gmail.com`](mailto:gabriel.rslima10@gmail.com)
+[`💼 @gabriel-lima-860612236`](https://www.linkedin.com/in/gabriel-lima-860612236)
 
-----
+<br>
 
-<div align="center" display="inline">
-  <a href="https://github.com/gabriellima2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellima2&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" width="430px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima2&layout=compact&langs_count=8&theme=nightowl&hide_border=true" width="410px"/>
-</div>
+Sou apaixonado por **desenvolvimento de software** e **design**. Estou focado em aperfeiçoar e ampliar meus conhecimentos em desenvolvimento mobile com React Native e design de interfaces, com o objetivo de expandir minhas habilidades e opções de atuação.
 
-<br />
+### 🧑🏽‍💻 Habilidades
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,redux,jest,styledcomponents,tailwind,figma,git,docker" />
-  </a>
-</p>
+Minha stack de desenvolvimento se baseia em **NextJS**, **ReactJS**, **React Native**, **Redux/RTK Toolkit** e **VueJS**. Além disso, tenho um conhecimento considerável em **NodeJS**. Também tenho experiência em **Testes Unitários**, usando ferramentas como **RTL**, **Jest** e **Vitest**, no desenvolvimento usando containers com **Docker** e na criação de interfaces com **Figma**.
 
-----
+### 👷🏽‍♂️ Projetos em Andamento
 
-<div align="center">
-  <a href="mailto:gabriel.rslima10@gmail.com" title="Gmail" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-lima-860612236" title="Linkedin" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://gabrielrslima.vercel.app/" title="Site(Portfólio)" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/Meu%20Website-EDD11D?style=for-the-badge" /></a>
-</div>
+- [gabriellima2/falei-app](https://github.com/gabriellima2/falei-app) - Aplicativo inovador projetado para ser um aliado poderoso para pessoas que enfrentam desafios na fala
+- [gabriellima2/scream-api](https://github.com/gabriellima2/scream-api) - 🔪 Uma API Rest dedicada à clássica franquia de filmes de terror slasher, Scream
+
+### 🌱 Projetos Recentes
+
+- [gabriellima2/falei-app](https://github.com/gabriellima2/falei-app) - Aplicativo inovador projetado para ser um aliado poderoso para pessoas que enfrentam desafios na fala
+- [gabriellima2/scream-api](https://github.com/gabriellima2/scream-api) - 🔪 Uma API Rest dedicada à clássica franquia de filmes de terror slasher, Scream
+- [gabriellima2/my-portfolio](https://gabrielrslima.vercel.app/) - Meu portfólio minimalista que contém um sistema de blog.
+- [gabriellima2/dannia](https://jordanialima.netlify.app/) - 🔥 Landing Page atraente que criei para Jordânia Lima.
+- [gabriellima2/downcars](https://oficinadowncars.netlify.app/) - 🔥 Landing Page incrível que criei para a Oficina Mecânica Downcars.
+
+### 🔥 Realizações Significativas
+
+- [gabriellima2/dannia](https://jordanialima.netlify.app/) - Landing Page atraente que criei para Jordânia Lima
+- [gabriellima2/downcars](https://oficinadowncars.netlify.app/) - Landing Page incrível que criei para a Oficina Mecânica Downcars
+- [gabriellima2/fun-math](https://fun-math.vercel.app/) - Aplicação educativa que permite praticar e aprimorar seus conhecimentos em matemática de uma maneira divertida e envolvente
+- [gabriellima2/fun-geo](https://fun-geo.vercel.app/) - Aplicação educativa que permite explorar e aprender sobre os países do mundo de uma maneira divertida
+- [gabriellima2/solar-system-explorer](https://github.com/gabriellima2/solar-system-explorer) - Aplicativo fascinante que permite explorar os principais planetas do Sistema Solar
+
+
