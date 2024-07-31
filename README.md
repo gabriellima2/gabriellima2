@@ -2,7 +2,7 @@
 
 ### Salve!
 
-Eu sou **Gabriel**, um desenvolvedor front-end inovador e criativo. Tenho experiência em desenvolver soluções digitais únicas e personalizadas. Através do meu trabalho, busco ajudar os clientes a aumentar sua visibilidade e presença no mundo digital.
+Eu sou **Gabriel**, um desenvolvedor front-end inovador e criativo. Tenho experiência em desenvolver soluções digitais únicas e personalizadas. Através do meu trabalho, busco ajudar os clientes a aumentar sua visibilidade e presença no mundo digital. Atualmente trabalho como **Desenvolvedor Front-end Júnior** na **Jet Soluções Web**.
 
 [`🏠 gabrielrslima.vercel`](https://gabrielrslima.vercel.app/)
 [`📬 gabriel.rslima10@gmail.com`](mailto:gabriel.rslima10@gmail.com)
@@ -10,16 +10,11 @@ Eu sou **Gabriel**, um desenvolvedor front-end inovador e criativo. Tenho experi
 
 <br>
 
-Sou apaixonado por **desenvolvimento de software** e **design**. Estou focado em aperfeiçoar e ampliar meus conhecimentos em desenvolvimento mobile com React Native e design de interfaces, com o objetivo de expandir minhas habilidades e opções de atuação.
+Sou apaixonado por **desenvolvimento de software** e **design**. Estou focado em aperfeiçoar e ampliar meus conhecimentos em desenvolvimento mobile com React Native.
 
 ### 🧑🏽‍💻 Habilidades
 
 Minha stack de desenvolvimento se baseia em **NextJS**, **ReactJS**, **React Native**, **Redux/RTK Toolkit** e **VueJS**. Além disso, tenho um conhecimento considerável em **NodeJS**. Também tenho experiência em **Testes Unitários**, usando ferramentas como **RTL**, **Jest** e **Vitest**, no desenvolvimento usando containers com **Docker** e na criação de interfaces com **Figma**.
-
-### 👷🏽‍♂️ Projetos em Andamento
-
-- [gabriellima2/falei-app](https://github.com/gabriellima2/falei-app) - Aplicativo inovador projetado para ser um aliado poderoso para pessoas que enfrentam desafios na fala
-- [gabriellima2/scream-api](https://github.com/gabriellima2/scream-api) - 🔪 Uma API Rest dedicada à clássica franquia de filmes de terror slasher, Scream
 
 ### 🌱 Projetos Recentes
 
