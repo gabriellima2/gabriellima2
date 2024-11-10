@@ -2,15 +2,11 @@
 
 ### Salve!
 
-Eu sou **Gabriel**, um desenvolvedor front-end inovador e criativo. Tenho experiência em desenvolver soluções digitais únicas e personalizadas. Através do meu trabalho, busco ajudar os clientes a aumentar sua visibilidade e presença no mundo digital. Atualmente trabalho como **Desenvolvedor Front-end Júnior** na **Jet Soluções Web**.
+Eu sou **Gabriel**, um desenvolvedor front-end inovador e criativo. Atuo como **Desenvolvedor Front-end Júnior** na **Jet Soluções Web**, onde contribuo para o desenvolvimento de soluções digitais em diversos nichos. Tive a honra de iniciar um projeto do zero e contribuir em todas as etapas até a implementação da última feature acordada. Aproveitei essa oportunidade para desenvolver minhas ideias e colaborar no planejamento de **funcionalidades complexas**. Esse projeto me permitiu conhecer o mercado e entender como funciona uma aplicação real de **alto faturamento**. Além de trabalhar em novos projetos, também realizo **manutenções** e adiciono **novas funcionalidades** em sistemas já existentes.
 
 [`🏠 gabrielrslima.vercel`](https://gabrielrslima.vercel.app/)
 [`📬 gabriel.rslima10@gmail.com`](mailto:gabriel.rslima10@gmail.com)
 [`💼 @gabriel-lima-860612236`](https://www.linkedin.com/in/gabriel-lima-860612236)
-
-<br>
-
-Sou apaixonado por **desenvolvimento de software** e **design**. Estou focado em aperfeiçoar e ampliar meus conhecimentos em desenvolvimento mobile com React Native.
 
 ### 🧑🏽‍💻 Habilidades
 
@@ -18,13 +14,13 @@ Minha stack de desenvolvimento se baseia em **NextJS**, **ReactJS**, **React Nat
 
 ### 🌱 Projetos Recentes
 
-- [gabriellima2/falei-app](https://github.com/gabriellima2/falei-app) - Aplicativo inovador projetado para ser um aliado poderoso para pessoas que enfrentam desafios na fala
-- [gabriellima2/scream-api](https://github.com/gabriellima2/scream-api) - 🔪 Uma API Rest dedicada à clássica franquia de filmes de terror slasher, Scream
+- [gabriellima2/falei-app](https://github.com/gabriellima2/falei-app) - Aplicativo inovador projetado para ser um aliado poderoso para pessoas que enfrentam desafios na fala.
+- [gabriellima2/scream-api](https://github.com/gabriellima2/scream-api) - 🔪 Uma API Rest dedicada à clássica franquia de filmes de terror slasher, Scream.
 - [gabriellima2/my-portfolio](https://gabrielrslima.vercel.app/) - Meu portfólio minimalista que contém um sistema de blog.
 - [gabriellima2/dannia](https://jordanialima.netlify.app/) - 🔥 Landing Page atraente que criei para Jordânia Lima.
 - [gabriellima2/downcars](https://oficinadowncars.netlify.app/) - 🔥 Landing Page incrível que criei para a Oficina Mecânica Downcars.
 
-### 🔥 Realizações Significativas
+### 🔥 Projetos Significativos
 
 - [gabriellima2/dannia](https://jordanialima.netlify.app/) - Landing Page atraente que criei para Jordânia Lima
 - [gabriellima2/downcars](https://oficinadowncars.netlify.app/) - Landing Page incrível que criei para a Oficina Mecânica Downcars
