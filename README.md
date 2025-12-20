@@ -14,13 +14,11 @@ Atualmente faço parte do time da **Jet Soluções Web**.
 [`📬 gabriel.rslima10@gmail.com`](mailto:gabriel.rslima10@gmail.com)
 [`💼 LinkedIn`](https://www.linkedin.com/in/gabriel-lima-860612236)
 
----
 
 ### 🧑🏽‍💻 Habilidades
 
 Atuo principalmente com **JavaScript** e **TypeScript**, utilizando **React.js**, **Next.js** e **React Native**. Tenho experiência com **Node.js**, especialmente na integração com APIs, além de trabalhar com **Docker** e **Figma**. Também possuo conhecimentos em **testes unitários** (RTL, Jest e Vitest).
 
----
 
 ### 🔥 Projetos Significativos
 
