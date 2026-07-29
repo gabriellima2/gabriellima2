@@ -2,15 +2,12 @@
 
 ### Olá!
 
-Sou **Gabriel**, desenvolvedor front-end. Trabalho na construção de produtos e funcionalidades do zero, com foco em organização do código, padronização e decisões técnicas que facilitem a manutenção e a evolução dos projetos.
+Sou Gabriel, **desenvolvedor front-end**.
 
-Atuo a partir de designs no Figma e em colaboração com o back-end, cuidando da estrutura das interfaces, do consumo de dados e da consistência entre diferentes telas e fluxos.
+Trabalho principalmente com React.js, Next.js e TypeScript. Tenho interesse em arquitetura de front-end, performance e organização de código. Também gosto de trabalhar próximo ao back-end na definição de contratos de dados e transformar designs do Figma em interfaces funcionais.
 
-No tempo livre, desenvolvo projetos pessoais para testar ideias e explorar abordagens técnicas.
+No tempo livre, desenvolvo projetos pessoais para testar ideias, explorar abordagens técnicas e aprender novas tecnologias.
 
-Atualmente faço parte do time da **Jet Soluções Web**.
-
-[`🏠 gabrielrslima.vercel`](https://gabrielrslima.vercel.app/)
 [`📬 gabriel.rslima10@gmail.com`](mailto:gabriel.rslima10@gmail.com)
 [`💼 LinkedIn`](https://www.linkedin.com/in/gabriel-lima-860612236)
 
