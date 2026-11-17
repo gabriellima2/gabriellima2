@@ -18,8 +18,7 @@ Atuo principalmente com **JavaScript** e **TypeScript**, utilizando **React.js**
 
 
 ### 🔥 Projetos Significativos
+Meus principais projetos de código aberto estão nos **repositórios fixados**. Além deles, desenvolvi a seguinte entrega comercial com repositório privado disponível no ar:
 
-- [**dannia**](https://jordanialima.netlify.app/) – Landing page desenvolvida para uma cliente, com foco em apresentar seus serviços de forma clara e alinhada à sua identidade.
-- [**downcars**](https://oficinadowncars.netlify.app/) – Landing page criada para uma oficina mecânica, estruturada para destacar serviços, facilitar o contato e funcionar bem em dispositivos móveis.
-
+* [**downcars:**](https://oficinadowncars.netlify.app/) Página institucional desenvolvida para uma oficina mecânica, estruturada para apresentar os serviços prestados, transmitir credibilidade e facilitar o contato direto com os clientes.
 
